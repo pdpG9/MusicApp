@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="player_avatar_size">60dp</dimen>
+    <dimen name="base_padding">8dp</dimen>
+    <dimen name="item_music_image_size">94dp</dimen>
+    <dimen name="base_margin">16dp</dimen>
+    <dimen name="music_next_button_size">68dp</dimen>
+    <dimen name="music_play_button_size">98dp</dimen>
+</resources>
